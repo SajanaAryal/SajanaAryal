@@ -33,10 +33,10 @@
 - 🏅 **Travel Award**, Association for Research in Otolaryngology (2025)  
 - 🏅 **Professional Development Award**, Moody College of Communication, UT Austin (2024-2025)  
 - 🏅 **ASHA Research Mentoring Pair Travel Award** (2024)
-- 🏅 ** ASHA Audiology Research Travel Award, November 2023**
+- 🏅 **ASHA Audiology Research Travel Award, November 2023**
 - 🏅 **UT Austin Provost Fellowship** (2023)  
-- 🏅 ** UT Austin Graduate School Recruitment Fellowship** 2023-2027
-- 🏅 ** UT Austin Moody Graduate Fellowship, 2024-2027**
+- 🏅 **UT Austin Graduate School Recruitment Fellowship** 2023-2027
+- 🏅 **UT Austin Moody Graduate Fellowship, 2024-2027**
 - 🏅 **SoQuiet Misophonia Student Research Grant** (2022)  
 
 ---
