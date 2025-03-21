@@ -4,17 +4,17 @@
 
 # 👋 Hi, I'm **Sajana Aryal**  
 
-🎓 Ph.D. Student | 🔬 Auditory Neuroscience | 🎧 Hearing Science 
+🎓 Ph.D. Student | 🧠Auditory Neuroscience | 🦻Hearing Science 
 
 **I am a Ph.D. student in **Speech, Language, and Hearing Sciences** at **The University of Texas at Austin**.My current research investigates peripheral auditory mechanisms and neurophysiological processing among young adults with subclinical hearing loss. The goal is to identify auditory damage caused by several factors (Such as, Noise exposure) at the earliest possible stage, facilitating timely intervention and improved outcomes for hearing-impaired individuals**.
  
 ---
 
-## 🔬 **Research Interests**
+##  **Research Interests**
 - 🧠 **Neurophysiological processing of extended high-frequency hearing**
-- 🎧 **Noise-induced auditory damage & early detection of subclinical hearing loss**
-- 🎙 **Misophonia and tinnitus**
-- 📊 **Electrophysiology (EEG, otoacoustic emissions)**
+- 🦻 **Noise-induced auditory damage & early detection of subclinical hearing loss**
+- 🦻 **Misophonia and tinnitus**
+-  **Electrophysiology (EEG, otoacoustic emissions)**
 
 ---
 
