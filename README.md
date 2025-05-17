@@ -20,33 +20,45 @@
 
 ## 🎓 **Education**
 - **Ph.D. in Speech, Language & Hearing Sciences** *(2023-Present)*  
-  *The University of Texas at Austin* | GPA: 3.96/4.0  
+  *The University of Texas at Austin* | GPA: 3.97/4.0  
 - **M.S. in Audiology** *(2020-2022)*  
   *All India Institute of Speech & Hearing, University of Mysore* | GPA: 7.9/10 (Rank 3)  
-- **B.ASLP (Audiology & Speech-Language Pathology)** *(2014-2019)*  
+- **BASLP (Audiology & Speech-Language Pathology)** *(2014-2019)*  
   *Tribhuvan University, Nepal*  
 
 ---
 
 ## 🏆 **Awards & Grants**
-- 🏅 **Student Scholarship**, International Symposium on Hearing, Vienna (2025)  
-- 🏅 **Travel Award**, Association for Research in Otolaryngology (2025)  
-- 🏅 **Professional Development Award**, Moody College of Communication, UT Austin (2024-2025)  
-- 🏅 **ASHA Research Mentoring Pair Travel Award** (2024)
-- 🏅 **ASHA Audiology Research Travel Award, November 2023**
-- 🏅 **UT Austin Provost Fellowship** (2023)  
-- 🏅 **UT Austin Graduate School Recruitment Fellowship** 2023-2027
-- 🏅 **UT Austin Moody Graduate Fellowship, 2024-2027**
-- 🏅 **SoQuiet Misophonia Student Research Grant** (2022)  
+1.	Selected for ASHA pathways programme, 2025
+2.	Susan small travel award, International Evoked Response Audiometry Study Group, 2025
+3.	Professional development award, 2025, Moody college of Communication, UT
+4.	International Symposium on Hearing, Vienna, 2025, Student Scholarship
+5.	Association for Research in Otolaryngology travel award, 2025
+6.	Professional development award, 2024, Moody college of Communication, UT
+7.	ASHA Research Mentoring Pair Travel Award, December 2024
+8.	ASHA Audiology Research Travel Award, November 2023
+9.	UT Austin Provost Fellowship, 2023
+10.	UT Austin Graduate School Recruitment Fellowship, 2023-2027
+11.	UT Austin Moody Graduate Fellowship, 2024-2027
+12.	SoQuiet Misophonia Student Research Grant, March 2022
 
 ---
 
 ## 📚 **Publications**
-1. **Aryal, S.**, Trevino, M., Rodrigo, H., & Mishra, S.K. (2025). *Association Between Noise Exposure and Extended High-Frequency Hearing in Adults with Normal Audiograms: A Systematic Review and Meta-analysis* (**Under Review**).  
-2. Mishra, S.K., **Aryal, S.**, Patro, C., & Fu, Q.J. (2025). *Subclinical Hearing Loss and Suprathreshold Auditory Processing: The Moderating Role of Auditory Working Memory* (**In Press, Ear and Hearing**).  
-3. **Aryal, S.**, & Prabhu, P. (2023). *Understanding misophonia from an audiological perspective: a systematic review. European Archives of Oto-Rhino-Laryngology, 280(4), 1529-1545*
-4. **Aryal, S.**, & Prabhu, P. (2023). *Auditory cortical functioning in individuals with misophonia: An electrophysiological investigation*. *European Archives of Oto-Rhino-Laryngology, 1-15*.  
-5. **Aryal, S.**, & Prabhu, P. (2023). *Auditory brainstem functioning in individuals with misophonia*. *Journal of Otology*.  
+1. Aryal, S., Trevino, M., Rodrigo, H., & Mishra, S. (2025). Is Noise Exposure Associated with Impaired Extended High Frequency Hearing Despite a Normal Audiogram? A Systematic Review and Meta-Analysis. Trends in Hearing, 29, 23312165251343757.
+
+2.	Mishra SK, Aryal, S, Patro, C & Fu, QJ &. (2025). Subclinical Hearing Loss and Suprathreshold Auditory Processing: The Moderating Role of Auditory Working Memory (Ear and Hearing, In press).
+
+3.	Nair AP, Mishra SK, Aryal, S, Qian-jie Fu; John J Galvin III (2025). On the Cocktail-Party Problem: Do Children Use Their Exquisite Hearing at Frequencies Above 8 kHz? (Under Review, Hearing Research).
+
+4.	Aryal, S, Mishra SK. (2025). On the Sharpness of Auditory Filters: Considering Subclinical Loss Reveals Sharper Otoacoustic Emission Estimates of Frequency Selectivity in Humans (Under Review, JARO).
+   
+6.	Prabhu P, Aryal S, Rajan A, Nisha KV (2025). Exploring the Impact of Misophonia Through the Lens of World Health Organization International Classification of Functioning, Disability and Health Framework (Journal of American Academy of Audiology, In press).
+
+
+7. **Aryal, S.**, & Prabhu, P. (2023). *Understanding misophonia from an audiological perspective: a systematic review. European Archives of Oto-Rhino-Laryngology, 280(4), 1529-1545*
+8. **Aryal, S.**, & Prabhu, P. (2023). *Auditory cortical functioning in individuals with misophonia: An electrophysiological investigation*. *European Archives of Oto-Rhino-Laryngology, 1-15*.  
+9. **Aryal, S.**, & Prabhu, P. (2023). *Auditory brainstem functioning in individuals with misophonia*. *Journal of Otology*.  
 
 📖 **Full Research Profile**: [Google Scholar](https://scholar.google.com/citations?user=BUryX9QAAAAJ&hl=en)  
 
@@ -83,10 +95,17 @@
 ---
 
 ## 🤝 **Professional Memberships**
-- 🏛 **Student Member**, American Auditory Society (2023-Present)  
-- 🏛 **Student Member**, Association for Research in Otolaryngology (2023-Present)  
-- 🏛 **Member**, International Misophonia Research Network (2023-Present)  
-- 🏛 **Registered Audiologist**, Nepal Health Professional Council (2019-Present)  
+2025- Present       Member, National Student Speech Language Hearing Association (NSSLHA)
+
+2025- Present       Member, Student Academy of Audiology (SAA)
+
+2023 - Present      Member, International Misophonia Research Network 
+
+2023 - Present      Student Member, American Auditory Society 
+
+2023 - Present.     Student Member, Association for Research in Otolaryngology
+
+2019 - Present      Registered member, Nepal Health Professional Council
 
 ---
 
