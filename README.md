@@ -1,8 +1,6 @@
 # Sajana-Aryal
 ![IMG_6281](https://github.com/user-attachments/assets/c93501e3-e45d-47e3-a67b-904216968fc1)
 
-https://github.com/SajanaAryal/Sajana-aryal-cv-2025
-
 # 👋 Hi, I'm **Sajana Aryal**  
 
 🎓 Ph.D. Student | 🧠Auditory Neuroscience | 🦻Hearing Science 
@@ -131,6 +129,7 @@ https://github.com/SajanaAryal/Sajana-aryal-cv-2025
 2019 - Present      Registered member, Nepal Health Professional Council
 
 ---
+## Download my CV here (https://github.com/SajanaAryal/Sajana-aryal-cv-2025)
 
 ## 📫 **Let's Connect!**
 🔗 [Google Scholar](https://scholar.google.com/citations?user=BUryX9QAAAAJ&hl=en)  
