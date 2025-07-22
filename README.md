@@ -1,23 +1,23 @@
 # Sajana Aryal
 ![IMG_6281](https://github.com/user-attachments/assets/c93501e3-e45d-47e3-a67b-904216968fc1)
 
-# 👋 Hi, I'm **Sajana Aryal**  
+#  Hi, I'm **Sajana Aryal**  
 
-🎓 Ph.D. Student | 🧠Auditory Neuroscience | 🦻Hearing Science 
+🎓 Ph.D. Student | Auditory Neuroscience | Hearing Science 
 
-**I am a Ph.D. student in **Speech, Language, and Hearing Sciences** at **The University of Texas at Austin**.My current research investigates peripheral auditory mechanisms and neurophysiological processing among young adults with subclinical hearing loss. The goal is to identify auditory damage caused by several factors (Such as, Noise exposure) at the earliest possible stage, facilitating timely intervention and improved outcomes for hearing-impaired individuals**.
+**I am a Ph.D. candidate in **Speech, Language, and Hearing Sciences** at **The University of Texas at Austin**.My current research investigates peripheral auditory mechanisms and neurophysiological processing among young adults with subclinical hearing loss. The goal is to identify auditory damage caused by several factors (Such as, Noise exposure) at the earliest possible stage, facilitating timely intervention and improved outcomes for hearing-impaired individuals**.
  
 ---
 
 ##  **Research Interests**
-- 🧠 **Neurophysiological processing of extended high-frequency hearing**
-- 🦻 **Noise-induced auditory damage & early detection of subclinical hearing loss**
-- 🦻 **Misophonia and tinnitus**
+-  **Neurophysiological processing of extended high-frequency hearing**
+-  **Noise-induced auditory damage & early detection of subclinical hearing loss**
+-  **Misophonia and tinnitus**
 -  **Electrophysiology (EEG, otoacoustic emissions)**
 
 ---
 
-## 🎓 **Education**
+## **Education**
 - **Ph.D. in Speech, Language & Hearing Sciences** *(2023-Present)*  
   *The University of Texas at Austin* | GPA: 3.97/4.0  
 - **M.S. in Audiology** *(2020-2022)*  
@@ -27,7 +27,7 @@
 
 ---
 
-## 🏆 **Awards & Grants**
+## **Awards & Grants**
 1.	Selected for ASHA pathways programme, 2025
 2.	National Hearing Conservation Association Award, June , 2025
 3.	Susan small travel award, International Evoked Response Audiometry Study Group, 2025
@@ -48,7 +48,7 @@
 
 ---
 
-## 📚 **Publications**
+## **Publications**
 
 1. Anu Nair , S. K. M., Sajana Aryal , Qian-jie Fu, John J. GalvinIII. (2025). On the Cocktail-Party Problem: Do Children Use Their Exquisite Hearing at Frequencies Above 8 kHz? Hearing Research, 109327. 
 2. Aryal, S., Trevino, M., Rodrigo, H., & Mishra, S. (2025). Is Noise Exposure Associated With Impaired Extended High Frequency Hearing Despite a Normal Audiogram? A Systematic Review and Meta-Analysis. Trends in Hearing, 29, 23312165251343757.
@@ -79,11 +79,11 @@
 27. Aryal, S., Sharma, Y., & Prabhu, P. (2022). Prevalence of tinnitus and its characteristics among Indian adult population. Annals of Otology and Neurotology, 5(01), 015-020. 
 28. Aryal, S., & Prabhu, P. (2021). Audiological manifestations of Ramsay hunt syndrome type II with multicranial nerve involvement. Indian Journal of Otology, 27(4), 241-244. 
 
-📖 **Full Research Profile**: [Google Scholar](https://scholar.google.com/citations?user=BUryX9QAAAAJ&hl=en)  
+**Full Research Profile**: [Google Scholar](https://scholar.google.com/citations?user=BUryX9QAAAAJ&hl=en)  
 
 ---
 
-## 🎤 **Conference Presentations**
+## **Conference Presentations**
 -	Aryal S, Cheng Fan-yin, Mishra Srikanta & Smith Spencer (2025). Beyond the Audiogram: Brainstem Encoding and Behavioral Correlates of EHF Speech. International Evoked Response Audiometry Study Group, June 14–18, 2025.
 -	Aryal S, Cheng Fan-yin & Smith Spencer (2025). Neural Encoding of Extended High-Frequency Stimuli: Implications for Speech Perception. American Auditory Society Conference, February 13–15, 2025.
 -	Aryal S, Cheng Fan-yin & Smith Spencer (2025). Impacts of Extended High-Frequency Hearing Loss on 
@@ -97,7 +97,7 @@
 
 ---
 
-## 💼 **Experience**
+## **Experience**
 - **Graduate Research Assistant (08/2023 - Present)**  
   *Children’s Auditory Research & Education Laboratory, UT Austin*  
 - **Pediatric Audiologist & Speech-Language Pathologist (01/2022 - 06/2023)**  
@@ -108,14 +108,14 @@
   *Centre for Speech Therapy and Hearing Care, Kathmandu, Nepal*  
 ---
 
-## 🎓 **Teaching & Academic Contributions**
-- 🏫 **Teaching Assistant** – *Principles of Audiology (SLH 341), Fall 2024*  
-- 🏫 **Guest Lecturer** – *“Audiogram Degree, Type, and Configuration,” Fall 2024*  
-- 🏫 **Audiology Lab Instructor** – *Fall 2024*  
+## **Teaching & Academic Contributions**
+- **Teaching Assistant** – *Principles of Audiology (SLH 341), Fall 2024*  
+- **Guest Lecturer** – *“Audiogram Degree, Type, and Configuration,” Fall 2024*  
+- **Audiology Lab Instructor** – *Fall 2024*  
 
 ---
 
-## 🤝 **Professional Memberships**
+## **Professional Memberships**
 2025- Present       Member, National Student Speech Language Hearing Association (NSSLHA)
 
 2025- Present       Member, Student Academy of Audiology (SAA)
@@ -131,7 +131,7 @@
 ---
 ## Download my CV here (https://github.com/SajanaAryal/Sajana-aryal-cv-2025)
 
-## 📫 **Let's Connect!**
+## **Let's Connect!**
 🔗 [Google Scholar](https://scholar.google.com/citations?user=BUryX9QAAAAJ&hl=en)  
 🔗 [ResearchGate](https://www.researchgate.net/profile/Sajana-Aryal?ev=hdr_xprf)  
 🔗 [LinkedIn](https://www.linkedin.com/in/sajana-aryal-209612187/)  
