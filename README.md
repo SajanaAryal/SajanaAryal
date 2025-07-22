@@ -1,4 +1,4 @@
-![IMG_6281](https://github.com/user-attachments/assets/c93501e3-e45d-47e3-a67b-904216968fc1)
+![IMG_6285](https://github.com/user-attachments/assets/01690c3f-5d9c-45fc-8e8c-4bff7fbaecae)
 
 #  Hi, I'm **Sajana Aryal**  
 
@@ -10,7 +10,7 @@
 
 ##  **Research Interests**
 -  **Neurophysiological processing of extended high-frequency hearing**
--  **Noise-induced auditory damage & early detection of subclinical hearing loss**
+-  **Noise-induced auditory damage**
 -  **Misophonia and tinnitus**
 -  **Electrophysiology (EEG, otoacoustic emissions)**
 
@@ -96,7 +96,7 @@
 
 ---
 
-## **Experience**
+## **Work Experience**
 - **Graduate Research Assistant (08/2023 - Present)**  
   *Children’s Auditory Research & Education Laboratory, UT Austin*  
 - **Pediatric Audiologist & Speech-Language Pathologist (01/2022 - 06/2023)**  
