@@ -4,7 +4,7 @@
 
 🎓 Ph.D. Candidate | Audiology
 
-**I am a Ph.D. candidate in Speech, Language, and Hearing Sciences at The University of Texas at Austin.My current research investigates peripheral auditory mechanisms and neurophysiological processing among young adults with subclinical hearing loss. The goal is to identify auditory damage caused by several factors (Such as, Noise exposure) at the earliest possible stage, facilitating timely intervention and improved outcomes for hearing-impaired individuals**.
+**I am a Ph.D. candidate in Speech, Language, and Hearing Sciences at The University of Texas at Austin. My current research focuses on understanding neurophysiological mechanism of extended high frequency hearing and its implications for speech perception**.
  
 ---
 
