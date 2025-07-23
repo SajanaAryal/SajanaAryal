@@ -128,7 +128,6 @@
 2019 - Present      Registered member, Nepal Health Professional Council
 
 ---
-## Download my CV here (https://github.com/SajanaAryal/Sajana-aryal-cv-2025)
 
 ## **Let's Connect!**
 🔗 [Google Scholar](https://scholar.google.com/citations?user=BUryX9QAAAAJ&hl=en)  
