@@ -10,8 +10,8 @@
 
 ##  **Research Interests**
 -  **Neurophysiological processing of extended high-frequency hearing**
--  **Noise-induced auditory damage**
--  **Misophonia and tinnitus**
+-  **Early Identification and Intervention**
+-  **Misophonia and Hperacusis**
 -  **Electrophysiology (EEG, otoacoustic emissions)**
 
 ---
@@ -27,23 +27,27 @@
 ---
 
 ## **Awards & Grants**
+
 1.	Selected for ASHA pathways programme, 2025
-2.	National Hearing Conservation Association Award, June , 2025
-3.	Susan small travel award, International Evoked Response Audiometry Study Group, 2025
-4.	Professional development award, 2025, Moody college of Communication, UT
-5.	International Symposium on Hearing, Vienna, 2025, Student Scholarship
-6.	Association for Research in Otolaryngology travel award, 2025
-7.	Professional development award, 2024, Moody college of Communication, UT
-8.	ASHA Research Mentoring Pair Travel Award, December 2024
-9.	ASHA Audiology Research Travel Award, November 2023
-10.	UT Austin Provost Fellowship, 2023
-11.	UT Austin Graduate School Recruitment Fellowship, 2023-2027
-12.	UT Austin Moody Graduate Fellowship, 2024-2027
-13.	SoQuiet Misophonia Student Research Grant, March 2022
-14.	Top Ranked Student – Graduate Education (Merit-Based Tuition waiver)
-15.	Top Ranked Student – Undergraduate Education (Merit-Based Tuition waiver)
-16.	Top Ranked Student – Higher Secondary Education (Merit-Based Scholarship Recipient)
-17.	Top Ranked Student – School Education (Merit-Based Tuition waiver)
+2.	New Century Scholars Doctoral Scholarship, ASHA Foundation, 2025
+3.	Global Audiology, Student Scholarship, 2025
+4.	National Hearing Conservation Association, Student Research Award, 2025
+5.	National Hearing Conservation Association Award, June , 2025
+6.	Susan small travel award, International Evoked Response Audiometry Study Group, 2025
+7.	Professional development award, 2025, Moody college of Communication, UT
+8.	International Symposium on Hearing, Vienna, 2025, Student Scholarship
+9.	Association for Research in Otolaryngology travel award, 2025
+10.	Professional development award, 2024, Moody college of Communication, UT
+11.	ASHA Research Mentoring Pair Travel Award, December 2024
+12.	ASHA Audiology Research Travel Award, November 2023
+13.	UT Austin Provost Fellowship, 2023
+14.	UT Austin Graduate School Recruitment Fellowship, 2023-2027
+15.	UT Austin Moody Graduate Fellowship, 2024-2027
+16.	SoQuiet Misophonia Student Research Grant, March 2022
+17.	Top Ranked Student – Graduate Education (Merit-Based Tuition waiver)
+18.	Top Ranked Student – Undergraduate Education (Merit-Based Tuition waiver)
+19.	Top Ranked Student – Higher Secondary Education (Merit-Based Scholarship Recipient)
+20.	Top Ranked Student – School Education (Merit-Based Tuition waiver)
 
 ---
 
@@ -54,8 +58,8 @@
 3. Mishra, S. K., Aryal, S., Patro, C., & Fu, Q.-J. (2025). Extended High-Frequency Hearing Loss and Suprathreshold Auditory Processing: The Moderating Role of Auditory Working Memory. Ear and Hearing. 
 4. Aryal, S., Mishra, S. K. (2025). On the Sharpness of Auditory Filters: Considering Subclinical Loss Reveals Sharper Otoacoustic Emission Estimates of Frequency Selectivity in Individuals with Normal Audiograms. Journal of the Association for Research in Otolaryngology (Under revsion).
 5. Aryal, S., Mishra, S. K. (2025). Targeting the Peaks: Probing Cochlear Compressive Nonlinearity through Fine Structure-Optimized Distortion Product Otoacoustic Emission Input/Output Functions. Journal of the Acoustical Society of America (Under review).
-6. Aryal, S., Cheng, FY., Mishra, S. K & Smith S (2025). Brainstem Encoding of Speech in the Extended High Frequencies and Its Behavioral Correlates. Journal of Neuroscience(Under review). 
-7. Aryal, S., Moskovich, A., Prabhu, P & Rosenthal M.Z (2025). Emotional Dysregulation in Misophonia and Hyperacusis: Bridging The Gap. Hearing Research (Under review). 
+6. Aryal, S., Cheng, FY., Mishra, S. K & Smith S (2025). Brainstem Encoding of Speech in the Extended High Frequencies and Its Behavioral Correlates (Under review). 
+7. Aryal, S., Moskovich, A., Prabhu, P & Rosenthal M.Z (2025). Emotional Dysregulation in Misophonia and Hyperacusis: Bridging The Gap (Under review). 
 8. Prabhu, P., Aryal, S., Rajan A & Nisha, K. V. K. (2025). Exploring the Impact of Misophonia through the Lens of World Health Organization International Classification of Functioning, Disability and Health Framework. Journal of American Academy of Audiology (In press)
 9. Prabhu, P., Kannancheeri, A., Aryal, S., & Nisha, K. V. K. (2025). Profiling the Impact of Tinnitus in Indian Population Using International Classification of Functioning Classification System: A Cross-Sectional Study. Auditory and Vestibular Research, 34(3), 245-256. 
 10. Sanjay Shankar, S. A., Prashanth Prabhu. (2025). Binaural Processing and Auditory Working Memory in Individuals With Stuttering. Journal of Health and Allied Sciences NU. 
@@ -108,6 +112,7 @@
 ---
 
 ## **Teaching & Academic Contributions**
+- **Teaching Assistant** – *Communication and AI (UGS 303), Fall 2025*  
 - **Teaching Assistant** – *Principles of Audiology (SLH 341), Fall 2024*  
 - **Guest Lecturer** – *“Audiogram Degree, Type, and Configuration,” Fall 2024*  
 - **Audiology Lab Instructor** – *Fall 2024*  
@@ -115,6 +120,9 @@
 ---
 
 ## **Professional Memberships**
+
+2025- Present       Student Member, Acoustical Society of America
+
 2025- Present       Member, National Student Speech Language Hearing Association (NSSLHA)
 
 2025- Present       Member, Student Academy of Audiology (SAA)
