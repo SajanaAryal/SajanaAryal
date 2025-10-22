@@ -32,22 +32,21 @@
 2.	New Century Scholars Doctoral Scholarship, ASHA Foundation, 2025
 3.	Global Audiology, Student Scholarship, 2025
 4.	National Hearing Conservation Association, Student Research Award, 2025
-5.	National Hearing Conservation Association Award, June , 2025
-6.	Susan small travel award, International Evoked Response Audiometry Study Group, 2025
-7.	Professional development award, 2025, Moody college of Communication, UT
-8.	International Symposium on Hearing, Vienna, 2025, Student Scholarship
-9.	Association for Research in Otolaryngology travel award, 2025
-10.	Professional development award, 2024, Moody college of Communication, UT
-11.	ASHA Research Mentoring Pair Travel Award, December 2024
-12.	ASHA Audiology Research Travel Award, November 2023
-13.	UT Austin Provost Fellowship, 2023
-14.	UT Austin Graduate School Recruitment Fellowship, 2023-2027
-15.	UT Austin Moody Graduate Fellowship, 2024-2027
-16.	SoQuiet Misophonia Student Research Grant, March 2022
-17.	Top Ranked Student – Graduate Education (Merit-Based Tuition waiver)
-18.	Top Ranked Student – Undergraduate Education (Merit-Based Tuition waiver)
-19.	Top Ranked Student – Higher Secondary Education (Merit-Based Scholarship Recipient)
-20.	Top Ranked Student – School Education (Merit-Based Tuition waiver)
+5.	Susan small travel award, International Evoked Response Audiometry Study Group, 2025
+6.	Professional development award, 2025, Moody college of Communication, UT
+7.	International Symposium on Hearing, Vienna, 2025, Student Scholarship
+8.	Association for Research in Otolaryngology travel award, 2025
+9.	Professional development award, 2024, Moody college of Communication, UT
+10.	ASHA Research Mentoring Pair Travel Award, December 2024
+11.	ASHA Audiology Research Travel Award, November 2023
+12.	UT Austin Provost Fellowship, 2023
+13.	UT Austin Graduate School Recruitment Fellowship, 2023-2027
+14.	UT Austin Moody Graduate Fellowship, 2024-2027
+15.	SoQuiet Misophonia Student Research Grant, March 2022
+16.	Top Ranked Student – Graduate Education (Merit-Based Tuition waiver)
+17.	Top Ranked Student – Undergraduate Education (Merit-Based Tuition waiver)
+18.	Top Ranked Student – Higher Secondary Education (Merit-Based Scholarship Recipient)
+19.	Top Ranked Student – School Education (Merit-Based Tuition waiver)
 
 ---
 
