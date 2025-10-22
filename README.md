@@ -11,7 +11,7 @@
 ##  **Research Interests**
 -  **Neurophysiological processing of extended high-frequency hearing**
 -  **Early Identification and Intervention**
--  **Misophonia and Hperacusis**
+-  **Misophonia and Hyperacusis**
 -  **Electrophysiology (EEG, otoacoustic emissions)**
 
 ---
@@ -55,32 +55,34 @@
 
 1. Anu Nair , S. K. M., Sajana Aryal , Qian-jie Fu, John J. GalvinIII. (2025). On the Cocktail-Party Problem: Do Children Use Their Exquisite Hearing at Frequencies Above 8 kHz? Hearing Research, 109327. 
 2. Aryal, S., Trevino, M., Rodrigo, H., & Mishra, S. (2025). Is Noise Exposure Associated With Impaired Extended High Frequency Hearing Despite a Normal Audiogram? A Systematic Review and Meta-Analysis. Trends in Hearing, 29, 23312165251343757.
-3. Mishra, S. K., Aryal, S., Patro, C., & Fu, Q.-J. (2025). Extended High-Frequency Hearing Loss and Suprathreshold Auditory Processing: The Moderating Role of Auditory Working Memory. Ear and Hearing. 
-4. Aryal, S., Mishra, S. K. (2025). On the Sharpness of Auditory Filters: Considering Subclinical Loss Reveals Sharper Otoacoustic Emission Estimates of Frequency Selectivity in Individuals with Normal Audiograms. Journal of the Association for Research in Otolaryngology (Under revsion).
-5. Aryal, S., Mishra, S. K. (2025). Targeting the Peaks: Probing Cochlear Compressive Nonlinearity through Fine Structure-Optimized Distortion Product Otoacoustic Emission Input/Output Functions. Journal of the Acoustical Society of America (Under review).
-6. Aryal, S., Cheng, FY., Mishra, S. K & Smith S (2025). Brainstem Encoding of Speech in the Extended High Frequencies and Its Behavioral Correlates (Under review). 
-7. Aryal, S., Moskovich, A., Prabhu, P & Rosenthal M.Z (2025). Emotional Dysregulation in Misophonia and Hyperacusis: Bridging The Gap (Under review). 
-8. Prabhu, P., Aryal, S., Rajan A & Nisha, K. V. K. (2025). Exploring the Impact of Misophonia through the Lens of World Health Organization International Classification of Functioning, Disability and Health Framework. Journal of American Academy of Audiology (In press)
-9. Prabhu, P., Kannancheeri, A., Aryal, S., & Nisha, K. V. K. (2025). Profiling the Impact of Tinnitus in Indian Population Using International Classification of Functioning Classification System: A Cross-Sectional Study. Auditory and Vestibular Research, 34(3), 245-256. 
-10. Sanjay Shankar, S. A., Prashanth Prabhu. (2025). Binaural Processing and Auditory Working Memory in Individuals With Stuttering. Journal of Health and Allied Sciences NU. 
-11. Yadav, N., Aryal, S., Gupta, D. K., Kaushik, C., & Prabhu, P. (2024). Prevalence of Misophonia and Its Characteristics among Amity University Students in India. Indian Journal of Otology, 30(2), 90-95. 
-12. Aryal, S., & Prabhu, P. (2024a). Auditory cortical functioning in individuals with misophonia: an electrophysiological investigation. European Archives of Oto-Rhino-Laryngology, 281(5), 2259-2273. 
-13. Aryal, S., & Prabhu, P. (2024b). Auditory Efferent Pathway Functioning in Individuals with Misophonia. Auditory and Vestibular Research. 
-14. Aryal, S., & Prabhu, P. (2024c). Loudness tolerance level among individuals with misophonia: A psychoacoustic assessment. Hearing Balance and Communication, 22(4), 115-121. 
-15. Bhattarai, A., Aryal, S., Bhattarai, P., & Ghimire, A. (2024). Examining the Quality of Life of Hearing-Impaired Children in Nepal with Cochlear Implants: Perspectives From Parents. Indian Journal of Otolaryngology and Head & Neck Surgery, 76(4), 3114-3121. 
-16. Aryal, S., Sharma, Y., & Prabhu, P. (2023). A systematic review of the efficacy of cochlear implantation in adults with auditory neuropathy spectrum disorders. The Egyptian Journal of Otolaryngology, 39(1), 177. 
-17. Raza, A. F., Aryal, S., & Prabhu, P. (2023). Indicators for cochlear implantation in children with auditory neuropathy spectrum disorder: A systematic review. International Journal of Pediatric Otorhinolaryngology, 174, 111737. 
-18. Sanjay, S., Aryal, S., KVenkateswaran, N., & Prabhu, P. (2023). Binaural Processing and Auditory Working Memory in Individuals with Tinnitus Having Normal Hearing Sensitivity. The Journal of International Advanced Otology, 19(3), 175. 
-19. Aryal, S., & Prabhu, P. (2023a). Auditory brainstem functioning in individuals with misophonia. Journal of Otology, 18(3), 139-145. 
-20. Aryal, S., & Prabhu, P. (2023b). Awareness and perspectives of audiologists on assessment and management of misophonia in India. Journal of Otology, 18(2), 104-110. 
-21. Aryal, S., & Prabhu, P. (2023c). Understanding misophonia from an audiological perspective: a systematic review. European Archives of Oto-Rhino-Laryngology, 280(4), 1529-1545. 
-22. Aryal, S., Bhatarai, P., & Prabhu, P. (2022). Awareness and experience of tinnitus in Nepalese young adult population. Annals of Otology and Neurotology, 5(01), 036-043. 
-23. Aryal, S., Bhattarai, B., & Prabhu, P. (2022a). Development and Standardization of Hearing Handicap Inventory for Adult (Screening Version) in Nepali Language. Indian Journal of Otolaryngology and Head & Neck Surgery, 74(Suppl 3), 4409-4414. 
-24. Aryal, S., Bhattarai, B., & Prabhu, P. (2022b). Development and standardization of Morningness-Eveningness questionnaire (MEQ) in the Nepali language. Biological Rhythm Research, 53(11), 1692-1701. 
-25. Aryal, S., Bhattarai, B., Prabhu, P., & Bhattarai, B. (2022). Impact of hearing loss on the quality of life in adults with hearing impairment. Nepalese Medical Journal, 5(2), 597-601. 
-26. Aryal, S., & Prabhu, P. (2022). Misophonia: prevalence, impact and co-morbidity among Mysore University students in India-a survey. Neuroscience Research Notes, 5(4), 161-161. 
-27. Aryal, S., Sharma, Y., & Prabhu, P. (2022). Prevalence of tinnitus and its characteristics among Indian adult population. Annals of Otology and Neurotology, 5(01), 015-020. 
-28. Aryal, S., & Prabhu, P. (2021). Audiological manifestations of Ramsay hunt syndrome type II with multicranial nerve involvement. Indian Journal of Otology, 27(4), 241-244. 
+3. Mishra, S. K., Aryal, S., Patro, C., & Fu, Q.-J. (2025). Extended High-Frequency Hearing Loss and Suprathreshold Auditory Processing: The Moderating Role of Auditory Working Memory. Ear and Hearing.
+4. Aryal, S., Moskovich, A., Prabhu, P., & Rosenthal, M. Z. (2025). Examining the Relationship between Difficulties with Emotion Regulation and Misophonia and Hyperacusis Symptom Severity in Adults with Clinically Significant Misophonia. Hearing Research, 109457
+5. Prabhu, P., Aryal, S., Rajan A & Nisha, K. V. K. (2025). Exploring the Impact of Misophonia through the Lens of World Health Organization International Classification of Functioning, Disability and Health Framework. Journal of American Academy of Audiology (Role: Writing and editing the manuscript, statistical analysis)
+6. Aryal, S., Mishra, S. K. (2025). On the Sharpness of Auditory Filters: Considering Subclinical Loss Reveals Sharper Otoacoustic Emission Estimates of Frequency Selectivity in Individuals with Normal Audiograms. Journal of the Association for Research in Otolaryngology (Under revsion).
+7. Aryal, S., Mishra, S. K. (2025). Targeting the Peaks: Probing Cochlear Compressive Nonlinearity through Fine Structure-Optimized Distortion Product Otoacoustic Emission Input/Output Functions. Journal of the Acoustical Society of America (Under review).
+8. Aryal, S., Cheng, FY., Mishra, S. K & Smith S (2025). Brainstem Encoding of Speech in the Extended High Frequencies and Its Behavioral Correlates (Under review). 
+9. Bhandari, P., Aryal, S. (2025). Prevalence of hearing loss across age groups in Nepal: a systematic review and meta-analysis protocol. BMJ Open (Under review, Role: editing the manuscript, statistical analysis)
+10. Patro C, Aryal, S., Mishra, S. K. (2025). Hidden Hearing Loss Still Hides in Humans: A Systematic Review and Meta-Analysis of Envelope Following Responses as a Biomarker for Cochlear Synaptopathy. Communications Medicine (Under review). (Role: Quantitative analysis, writing and editing the manuscript)
+11. Nair A, Aryal, S., Mishra, S. K. (2025). Cognitive Function after Pediatric Cochlear Implantation: Insights from Systematic Review and Meta-Analysis. (Under review) (Role: Quantitative analysis, writing and editing the manuscript)
+12. Prabhu, P., Kannancheeri, A., Aryal, S., & Nisha, K. V. K. (2025). Profiling the Impact of Tinnitus in Indian Population Using International Classification of Functioning Classification System: A Cross-Sectional Study. Auditory and Vestibular Research, 34(3), 245-256. 
+14. Yadav, N., Aryal, S., Gupta, D. K., Kaushik, C., & Prabhu, P. (2024). Prevalence of Misophonia and Its Characteristics among Amity University Students in India. Indian Journal of Otology, 30(2), 90-95. 
+15. Aryal, S., & Prabhu, P. (2024a). Auditory cortical functioning in individuals with misophonia: an electrophysiological investigation. European Archives of Oto-Rhino-Laryngology, 281(5), 2259-2273. 
+16. Aryal, S., & Prabhu, P. (2024b). Auditory Efferent Pathway Functioning in Individuals with Misophonia. Auditory and Vestibular Research. 
+17. Aryal, S., & Prabhu, P. (2024c). Loudness tolerance level among individuals with misophonia: A psychoacoustic assessment. Hearing Balance and Communication, 22(4), 115-121. 
+18. Bhattarai, A., Aryal, S., Bhattarai, P., & Ghimire, A. (2024). Examining the Quality of Life of Hearing-Impaired Children in Nepal with Cochlear Implants: Perspectives From Parents. Indian Journal of Otolaryngology and Head & Neck Surgery, 76(4), 3114-3121. 
+19. Aryal, S., Sharma, Y., & Prabhu, P. (2023). A systematic review of the efficacy of cochlear implantation in adults with auditory neuropathy spectrum disorders. The Egyptian Journal of Otolaryngology, 39(1), 177. 
+20. Raza, A. F., Aryal, S., & Prabhu, P. (2023). Indicators for cochlear implantation in children with auditory neuropathy spectrum disorder: A systematic review. International Journal of Pediatric Otorhinolaryngology, 174, 111737. 
+21. Sanjay, S., Aryal, S., KVenkateswaran, N., & Prabhu, P. (2023). Binaural Processing and Auditory Working Memory in Individuals with Tinnitus Having Normal Hearing Sensitivity. The Journal of International Advanced Otology, 19(3), 175. 
+22. Aryal, S., & Prabhu, P. (2023a). Auditory brainstem functioning in individuals with misophonia. Journal of Otology, 18(3), 139-145. 
+23. Aryal, S., & Prabhu, P. (2023b). Awareness and perspectives of audiologists on assessment and management of misophonia in India. Journal of Otology, 18(2), 104-110. 
+24. Aryal, S., & Prabhu, P. (2023c). Understanding misophonia from an audiological perspective: a systematic review. European Archives of Oto-Rhino-Laryngology, 280(4), 1529-1545. 
+25. Aryal, S., Bhatarai, P., & Prabhu, P. (2022). Awareness and experience of tinnitus in Nepalese young adult population. Annals of Otology and Neurotology, 5(01), 036-043. 
+26. Aryal, S., Bhattarai, B., & Prabhu, P. (2022a). Development and Standardization of Hearing Handicap Inventory for Adult (Screening Version) in Nepali Language. Indian Journal of Otolaryngology and Head & Neck Surgery, 74(Suppl 3), 4409-4414. 
+27. Aryal, S., Bhattarai, B., & Prabhu, P. (2022b). Development and standardization of Morningness-Eveningness questionnaire (MEQ) in the Nepali language. Biological Rhythm Research, 53(11), 1692-1701. 
+28. Aryal, S., Bhattarai, B., Prabhu, P., & Bhattarai, B. (2022). Impact of hearing loss on the quality of life in adults with hearing impairment. Nepalese Medical Journal, 5(2), 597-601. 
+29. Aryal, S., & Prabhu, P. (2022). Misophonia: prevalence, impact and co-morbidity among Mysore University students in India-a survey. Neuroscience Research Notes, 5(4), 161-161. 
+30. Aryal, S., Sharma, Y., & Prabhu, P. (2022). Prevalence of tinnitus and its characteristics among Indian adult population. Annals of Otology and Neurotology, 5(01), 015-020. 
+31. Aryal, S., & Prabhu, P. (2021). Audiological manifestations of Ramsay hunt syndrome type II with multicranial nerve involvement. Indian Journal of Otology, 27(4), 241-244. 
 
 **Full Research Profile**: [Google Scholar](https://scholar.google.com/citations?user=BUryX9QAAAAJ&hl=en)  
 
