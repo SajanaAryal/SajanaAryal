@@ -2,7 +2,7 @@
 
 #  Hi, I'm **Sajana Aryal**  
 
-🎓 Ph.D. Candidate | Speech,Language and Hearing Science
+🎓 Ph.D. Candidate | Speech, Language and Hearing Science
 
 **I am a Ph.D. candidate in Speech, Language, and Hearing Sciences at The University of Texas at Austin. My current research focuses on understanding neurophysiological mechanism of extended high frequency hearing and its implications for speech perception**.
  
