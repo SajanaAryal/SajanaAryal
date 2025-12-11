@@ -54,13 +54,14 @@
 
 ## **Publications**
 
-1. Anu Nair , S. K. M., Sajana Aryal , Qian-jie Fu, John J. GalvinIII. (2025). On the Cocktail-Party Problem: Do Children Use Their Exquisite Hearing at Frequencies Above 8 kHz? Hearing Research, 109327. 
-2. Aryal, S., Trevino, M., Rodrigo, H., & Mishra, S. (2025). Is Noise Exposure Associated With Impaired Extended High Frequency Hearing Despite a Normal Audiogram? A Systematic Review and Meta-Analysis. Trends in Hearing, 29, 23312165251343757.
-3. Mishra, S. K., Aryal, S., Patro, C., & Fu, Q.-J. (2025). Extended High-Frequency Hearing Loss and Suprathreshold Auditory Processing: The Moderating Role of Auditory Working Memory. Ear and Hearing.
-4. Aryal, S., Moskovich, A., Prabhu, P., & Rosenthal, M. Z. (2025). Examining the Relationship between Difficulties with Emotion Regulation and Misophonia and Hyperacusis Symptom Severity in Adults with Clinically Significant Misophonia. Hearing Research, 109457
-5. Prabhu, P., Aryal, S., Rajan A & Nisha, K. V. K. (2025). Exploring the Impact of Misophonia through the Lens of World Health Organization International Classification of Functioning, Disability and Health Framework. Journal of American Academy of Audiology (Role: Writing and editing the manuscript, statistical analysis)
-6. Aryal, S., Mishra, S. K. (2025). On the Sharpness of Auditory Filters: Considering Subclinical Loss Reveals Sharper Otoacoustic Emission Estimates of Frequency Selectivity in Individuals with Normal Audiograms. Journal of the Association for Research in Otolaryngology (Accepted/In press).
-7. Aryal, S., Mishra, S. K. (2025). Probing Cochlear Compressive Nonlinearity Using Signal-to-Noise Ratio–Optimized Distortion Product Otoacoustic Emission Input/Output Functions.Journal of the Acoustical Society of America (Accepted/In press).
+1.Aryal, S., & Mishra, S. K. (2025). Probing cochlear compressive nonlinearity using signal-to-noise ratio–optimized distortion product otoacoustic emission input/output functions. The Journal of the Acoustical Society of America, 158(6), 4335-4347. https://doi.org/10.1121/10.0041765 
+
+2. Aryal, S., & Mishra, S. K. (2025). On the Sharpness of Auditory Filters: Considering Subclinical Deficits Reveals Sharper Otoacoustic Emission Estimates of Frequency Selectivity in Humans. Journal of the Association for Research in Otolaryngology. https://doi.org/10.1007/s10162-025-01018-8
+3. Anu Nair , S. K. M., Sajana Aryal , Qian-jie Fu, John J. GalvinIII. (2025). On the Cocktail-Party Problem: Do Children Use Their Exquisite Hearing at Frequencies Above 8 kHz? Hearing Research, 109327. 
+4. Aryal, S., Trevino, M., Rodrigo, H., & Mishra, S. (2025). Is Noise Exposure Associated With Impaired Extended High Frequency Hearing Despite a Normal Audiogram? A Systematic Review and Meta-Analysis. Trends in Hearing, 29, 23312165251343757.
+5. Mishra, S. K., Aryal, S., Patro, C., & Fu, Q.-J. (2025). Extended High-Frequency Hearing Loss and Suprathreshold Auditory Processing: The Moderating Role of Auditory Working Memory. Ear and Hearing.
+6. Aryal, S., Moskovich, A., Prabhu, P., & Rosenthal, M. Z. (2025). Examining the Relationship between Difficulties with Emotion Regulation and Misophonia and Hyperacusis Symptom Severity in Adults with Clinically Significant Misophonia. Hearing Research, 109457
+7. Prabhu, P., Aryal, S., Rajan A & Nisha, K. V. K. (2025). Exploring the Impact of Misophonia through the Lens of World Health Organization International Classification of Functioning, Disability and Health Framework. Journal of American Academy of Audiology (Role: Writing and editing the manuscript, statistical analysis)
 8. Aryal, S., Cheng, FY., Mishra, S. K & Smith S (2025). Brainstem Encoding of Speech in the Extended High Frequencies and Its Behavioral Correlates. Journal of Neurophysiology (Under revision). 
 9. Bhandari, P., Aryal, S. (2025). Prevalence of hearing loss across age groups in Nepal: a systematic review and meta-analysis protocol. BMJ Open (Under review, Role: editing the manuscript, statistical analysis)
 10. Patro C, Aryal, S., Mishra, S. K. (2025). Hidden Hearing Loss Still Hides in Humans: A Systematic Review and Meta-Analysis of Envelope Following Responses as a Biomarker for Cochlear Synaptopathy. Communications Medicine (Under revision). (Role: Quantitative analysis, writing and editing the manuscript)
@@ -77,31 +78,35 @@
 ---
 
 ## **Conference Presentations**
--	Aryal, S & Mishra SK (2025). Cochlear Damage Beyond the Audiogram: Extended High-Frequency Hearing Loss and Altered Cochlear Compression in Normal-Hearing Young Adults. Acoustical Society of America. Dec 1-5 (Accepted)
--	Smith S, Aryal, S & Cheng FY (2025). Extended High Frequency Hearing Predicts Neural Encoding and Perception of Speech in the Standard Frequency Range. Acoustical Society of America. Dec 1-5 (Accepted)
+-	Aryal, S & Mishra SK (2025). Cochlear Damage Beyond the Audiogram: Extended High-Frequency Hearing Loss and Altered Cochlear Compression in Normal-Hearing Young Adults. Acoustical Society of America. Dec 1-5
+-	Smith S, Aryal, S & Cheng FY (2025). Extended High Frequency Hearing Predicts Neural Encoding and Perception of Speech in the Standard Frequency Range. Acoustical Society of America. Dec 1-5 
+-	Aryal, S & Mishra SK (2026). Low-Frequency Cochlear Compressive Nonlinearity Altered by Extended High-Frequency Hearing Loss. American Auditory Society. Feb 26- 28 (Podium accepted)
+-	Garinis A, Aryal S, Mishra SK, Putterman D, Vachhani J, & Sonstroem A. DPOAE Input-Output Functions in Preterm Neonates. American Auditory Society. Feb 26- 28 (Podium accepted)
 -	Aryal, S & Mishra SK (2026). Extended High-Frequency Hearing Loss and Cochlear Compression in Normal-Hearing Young Adults: Evidence Beyond the Audiogram (Student Research Award platform Session). National Hearing Conservation Association. Feb 5-7(Accepted)
--	Alba P, Nair A, Aryal S & Mishra SK (2026). From Compression to Periodicity: Cochlear Influences on
-Suprathreshold Neural Encoding. Association for Research in Otolaryngology, February 7–11 (Accepted)
+-	Aryal S, Cheng FY, Mishra SK & Smith S (2025). Extended High-Frequency Hearing Loss Disrupts Neural Encoding of Speech at the Brainstem. American Academy of Audiology. April 22-25, 2026 (Accepted, Student Research Forum award)
+-	Alba P, Nair A, Aryal S & Mishra SK (2026). From Compression to Periodicity: Cochlear Influences on Suprathreshold Neural Encoding. Association for Research in Otolaryngology, February 7–11 (Accepted)
 -	Aryal S, Cheng FY, Mishra SK & Smith S (2025). Beyond the Audiogram: Brainstem Encoding and Behavioral Correlates of EHF Speech. International Evoked Response Audiometry Study Group, June 14–18 (Travel awardee, Oral presentation)
 -	Mishra SK, & Aryal, S (2025) Individual differences in cochlear compressive nonlinearity: Relation to extended high frequency hearing and implications for suprathreshold auditory processing. International Symposium on Hearing (Student awardee). June 1-6
+-	Aryal S, Cheng FY & Smith S (2025). Extended High-Frequency Hearing Sensitivity Predicts Neural Speech Encoding and Speech-in-Noise Perception in the Standard Frequency Range. End of year talk, Speech, Language and Hearing Science department, UT
 -	Aryal S, Cheng FY & Smith S (2025). Neural Encoding of Extended High-Frequency Stimuli: Implications for Speech Perception. American Auditory Society Conference, February 13–15
 -	Aryal S, Cheng FY & Smith S (2025). Impacts of Extended High-Frequency Hearing Loss on Neural Encoding and Perception of Speech. Association for Research in Otolaryngology, February 21–26
 -	Aryal S, Chawla A & Mishra SK (2025). Cochlear Frequency Selectivity and Extended High-Frequency Hearing in Listeners with Normal Audiograms. Association for Research in Otolaryngology, February 21–26 (Travel awardee)
 -	Aryal, S & Mishra SK (2024). Little Ears, Big Challenge: Do Children Hear Each Other Better? World Congress of Audiology. September 19-22
 -	Aryal, S, Chawla A & Mishra SK (2024). Cochlear frequency selectivity and extended high frequency hearing in individuals with normal audiograms. International Symposium on Hearing.
+-	Aryal, S & Mishra SK (2024). Cochlear Frequency Selectivity and Extended High-frequency Hearing in Listeners with Normal Audiograms. End of year talk, Speech, Language and Hearing Science department, UT
 -	Aryal, S & Mishra SK (2024). Cochlear Frequency Selectivity and Extended High-frequency Hearing in Listeners with Normal Audiograms. American Auditory Society Conference. February 15th -17th
--	Aryal, S & Prabhu, P. (2023). Test batteries for Assessment of Misophonia from audiological perspectives. Misophonia Convention. November 4th
+-	Aryal, S & Prabhu, P. (2023). Test batteries for Assessment of Misophonia from audiological perspectives. Misophonia Convention (Invited virtual presentation, November 4th)
 -	Aryal, S & Prabhu, P. (2022). Awareness and perspectives of audiologists in assessment and management of misophonia in India. IALP Audiology Conference, August 25-27
 -	Aryal, S & Prabhu, P. (2022). Auditory cortical functioning in individuals with misophonia: An electrophysiological investigation. IALP Audiology Conference, August 25-27
 -	Aryal S., Ghimire S., Kumar S., (2021). Auditory gating in hearing loss. Journal club; All- India Institute of Speech and Hearing.
 -	Aryal, S., Bhattarai, B., & Bhattarai, B. (2018). Impact of hearing loss on quality of life among adults. Speech and Hearing Association of Nepal Conference, Kathmandu, Nepal
 
 
-## ** Mentored Students Conference Presentations 
+## Co-mentored Students Conference Presentations 
 
-Ananth S, Trevino M, Aryal S, & Mishra SK (2025). Association Between Ethnicity/Race and Extended High Frequency Hearing: Implications for Understanding Early Signs of Auditory Aging. Association for Research in Otolaryngology, February 21–26
+Ananth S, Trevino M, Aryal S, & Mishra SK (2025). Association Between Ethnicity/Race and Extended High Frequency Hearing: Implications for Understanding Early Signs of Auditory Aging. Association for Research in Otolaryngology, February 21–26 (Travel awardee)
 
-Flores S, Aryal S, Trevino M & Mishra SK (2025). Shallow Middle Ear Muscle Reflex Growth Functions: Check Hearing Thresholds First. American Speech Language and Hearing Foundation, Nov 20-22 (Accepted)
+Flores S, Aryal S, Trevino M & Mishra SK (2025). Shallow Middle Ear Muscle Reflex Growth Functions: Check Hearing Thresholds First. American Speech Language and Hearing Foundation, Nov 20-22 (Travel awardee)
 
 ---
 
@@ -141,6 +146,17 @@ Flores S, Aryal S, Trevino M & Mishra SK (2025). Shallow Middle Ear Muscle Refle
 2019 - Present      Registered member, Nepal Health Professional Council
 
 ---
+## **SKILLS**
+
+-	Programming: Python, R
+-	Tools & Software: MATLAB, GitHub, Audacity, Praat (acoustic analysis), SPSS
+-	Statistical & Analytical Skills: Proficient in statistical analysis using SPSS, MATLAB, R, and Python
+
+## **PROFESSIONAL SERVICES**
+
+Editorial Board Member: Ear, Nose and Throat Journal (Sage Publishing)
+Ad-hoc reviewer: International Journal of Audiology; Journal of Speech, Language, and Hearing Research; Hearing Research; Plos One; American Journal of Audiology
+
 
 ## **Let's Connect!**
 🔗 [Google Scholar](https://scholar.google.com/citations?user=BUryX9QAAAAJ&hl=en)  
