@@ -54,8 +54,7 @@
 
 ## **Publications**
 
-1.Aryal, S., & Mishra, S. K. (2025). Probing cochlear compressive nonlinearity using signal-to-noise ratio–optimized distortion product otoacoustic emission input/output functions. The Journal of the Acoustical Society of America, 158(6), 4335-4347. https://doi.org/10.1121/10.0041765 
-
+1. Aryal, S., & Mishra, S. K. (2025). Probing cochlear compressive nonlinearity using signal-to-noise ratio–optimized distortion product otoacoustic emission input/output functions. The Journal of the Acoustical Society of America, 158(6), 4335-4347. https://doi.org/10.1121/10.0041765 
 2. Aryal, S., & Mishra, S. K. (2025). On the Sharpness of Auditory Filters: Considering Subclinical Deficits Reveals Sharper Otoacoustic Emission Estimates of Frequency Selectivity in Humans. Journal of the Association for Research in Otolaryngology. https://doi.org/10.1007/s10162-025-01018-8
 3. Anu Nair , S. K. M., Sajana Aryal , Qian-jie Fu, John J. GalvinIII. (2025). On the Cocktail-Party Problem: Do Children Use Their Exquisite Hearing at Frequencies Above 8 kHz? Hearing Research, 109327. 
 4. Aryal, S., Trevino, M., Rodrigo, H., & Mishra, S. (2025). Is Noise Exposure Associated With Impaired Extended High Frequency Hearing Despite a Normal Audiogram? A Systematic Review and Meta-Analysis. Trends in Hearing, 29, 23312165251343757.
