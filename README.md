@@ -145,13 +145,13 @@ Flores S, Aryal S, Trevino M & Mishra SK (2025). Shallow Middle Ear Muscle Refle
 2019 - Present      Registered member, Nepal Health Professional Council
 
 ---
-## **SKILLS**
+## **Skills**
 
 -	Programming: Python, R
 -	Tools & Software: MATLAB, GitHub, Audacity, Praat (acoustic analysis), SPSS
 -	Statistical & Analytical Skills: Proficient in statistical analysis using SPSS, MATLAB, R, and Python
 
-## **PROFESSIONAL SERVICES**
+## **Professional Services**
 
 Editorial Board Member: Ear, Nose and Throat Journal (Sage Publishing)
 Ad-hoc reviewer: International Journal of Audiology; Journal of Speech, Language, and Hearing Research; Hearing Research; Plos One; American Journal of Audiology
